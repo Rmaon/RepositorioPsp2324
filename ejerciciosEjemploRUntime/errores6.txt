@@ -1,0 +1,1 @@
+/usr/bin/bash: línea 1: dam2: orden no encontrada
