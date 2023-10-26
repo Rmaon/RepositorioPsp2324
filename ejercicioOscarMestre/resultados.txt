@@ -1,2 +1,2 @@
-Error: no se ha encontrado o cargado la clase principal Sumador
-Causado por: java.lang.ClassNotFoundException: Sumador
+Error: no se ha encontrado o cargado la clase principal Sumador.java
+Causado por: java.lang.ClassNotFoundException: Sumador.java

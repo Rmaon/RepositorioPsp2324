@@ -7,6 +7,10 @@ import java.text.SimpleDateFormat;
 import java.text.ParseException;
 
 /**
+ * Autor RAMON CAMINERO ARROYO
+ */
+
+/**
  * Esta clase representa el proceso padre (PP) que se encarga de solicitar una fecha al usuario, verificar el formato y calcular los días restantes hasta esa fecha.
  */
 public class PP {
